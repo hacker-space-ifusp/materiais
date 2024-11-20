@@ -1,3 +1,3 @@
-# Oficinas
+# Materiais
  
-Repositório com o objetivo de guardar os códigos produzidos em oficinas do Hackerspace IFUSP.
+Repositório com o objetivo de guardar códigos de oficinas e cursos do Hackerspace IFUSP.
